@@ -1,0 +1,5 @@
+{
+  "name": "LabQuímica Virtual",
+  "description": "An interactive chemistry laboratory where students can safely mix substances, observe real-time simulated reactions, and receive AI-powered explanations of chemical phenomena.",
+  "requestFramePermissions": []
+}
